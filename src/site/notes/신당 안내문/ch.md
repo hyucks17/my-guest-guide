@@ -3,16 +3,17 @@
 ---
 
 
+# 🏠 Welcome to Cheonggu Welcome Home!
+
 > [!tip] 🌐 **语言选择**
 > [[신당 안내문/kr\|KR 한국어]] | [[신당 안내문/en\|US English]] | [[신당 안내문/jp\|JP 日本語]] | [[신당 안내문/ch\|CN 中文]] | [[신당 안내문/ar\|SA العربية]]
 
-> **[ Browser Translation / 브라우저 자동 번역 안내 ]**
+> **[ Browser Translation  ]**
 > - 🇺🇸 **English**: Please use your browser's built-in translation feature (**Chrome / Safari "Translate Page"**).
 > - <span dir="ltr">🇸🇦 **العربية**: يرجى استخدام ميزة الترجمة المدمجة في متصفحك (**Chrome / Safari**).</span>
 > - 🇨🇳 **中文**: 请使用浏览器自带的翻译功能（**Chrome / Safari“翻译页面”**）。
 > - 🇯🇵 **日本語**: ブラウザ의 自動翻訳機能（**Chrome / Safari「ページを翻訳」**）をご利用ください。
 
-# 🏠 Welcome to Cheonggu Welcome Home!
 
 您好！欢迎入住我们的自助入住民宿。  
 为了顺利完成入住，请在**入住前一天通过消息告知我们您大概的预计入住与退房时间**。😊

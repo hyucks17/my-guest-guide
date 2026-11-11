@@ -3,10 +3,12 @@
 ---
 
 
+# 🏠 Welcome to Cheonggu Welcome Home!
+
 > [!tip] 🌐 **Select Language**
 > [[신당 안내문/kr\|KR 한국어]] | [[신당 안내문/en\|US English]] | [[신당 안내문/jp\|JP 日本語]] | [[신당 안내문/ch\|CN 中文]] | [[신당 안내문/ar\|SA العربية]]
 
-> **[ Browser Translation / 브라우저 자동 번역 안내 ]**
+> **[ Browser Translation ]**
 > - 🇺🇸 **English**: Please use your browser's built-in translation feature (**Chrome / Safari "Translate Page"**).
 > - <span dir="ltr">🇸🇦 **العربية**: يرجى استخدام ميزة الترجمة المدمجة في متصفحك (**Chrome / Safari**).</span>
 > - 🇨🇳 **中文**: 请使用浏览器自带的翻译功能（**Chrome / Safari“翻译页面”**）。
