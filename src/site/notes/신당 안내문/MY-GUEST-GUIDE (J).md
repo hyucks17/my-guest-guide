@@ -4,7 +4,7 @@
 
 
 > [!tip] 🌐 **Select Language**
-> [[신당 안내문/MY-GUEST-GUIDE (K)\|🇰🇷 한국어]] | [[신당 안내문/MY-GUEST-GUIDE (E)\|🇺🇸 US English]] | [[신당 안내문/MY-GUEST-GUIDE (J)\|🇯🇵 日本語]] | [[신당 안내문/MY-GUEST-GUIDE (C)\|🇨🇳 中文]] | [[신당 안내문/MY-GUEST-GUIDE (I)\|🇸🇦 العربية]]
+> [[신당 안내문/MY-GUEST-GUIDE (K)\|🇰🇷 한국어]] | [[신당 안내문/MY-GUEST-GUIDE (E)\|🇺🇸 US English]] | [[신당 안내문/MY-GUEST-GUIDE (J)\|🇯🇵 日本語]] | [[신당 안내문/MY-GUEST-GUIDE (C)\|🇨🇳 中文]] | [[신당 안내문/MY-GUEST-GUIDE (I)\|🇸🇦]] 
 
 > **[ Browser Translation / 브라우저 자동 번역 안내 ]**
 > - 🇺🇸 **English**: Please use your browser's built-in translation feature (**Chrome / Safari "Translate Page"**).
