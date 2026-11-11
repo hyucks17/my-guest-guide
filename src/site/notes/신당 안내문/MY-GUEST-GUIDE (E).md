@@ -1,0 +1,171 @@
+---
+{"dg-publish":true,"permalink":"//my-guest-guide-e/","tags":["gardenEntry"],"dg-note-properties":{}}
+---
+
+
+> [!tip] 🌐 **Select Language**
+> [[신당 안내문/MY-GUEST-GUIDE (K)\|🇰🇷 한국어]] | [[신당 안내문/MY-GUEST-GUIDE (E)\|🇺🇸 US English]] | [[신당 안내문/MY-GUEST-GUIDE (J)\|🇯🇵 日本語]] | [[신당 안내문/MY-GUEST-GUIDE (C)\|🇨🇳 中文]] | [[아랍어|🇸🇦 
+
+> **[ Browser Translation / 브라우저 자동 번역 안내 ]**
+> - 🇺🇸 **English**: Please use your browser's built-in translation feature (**Chrome / Safari "Translate Page"**).
+> - <span dir="ltr">🇸🇦 **العربية**: يرجى استخدام ميزة الترجمة المدمجة في متصفحك (**Chrome / Safari**).</span>
+> - 🇨🇳 **中文**: 请使用浏览器自带的翻译功能（**Chrome / Safari“翻译页面”**）。
+> - 🇯🇵 **日本語**: ブラウザ의 自動翻訳機能（**Chrome / Safari「ページを翻訳」**）をご利用ください。
+
+# 🏠 Welcome to Cheonggu Welcome Home!
+
+Hello! Welcome to our self check-in accommodation.  
+To ensure a smooth check-in, please message us your estimated arrival and departure times at least one day before arrival. 😊
+
+---
+
+## 📌 Quick Links
+- [[신당 안내문/MY-GUEST-GUIDE (E)#^sec-1\|1. 🔑 Check-in & Check-out]]
+- [[신당 안내문/MY-GUEST-GUIDE (E)#^sec-2\|2. 📍 Location & Map]]
+- [[신당 안내문/MY-GUEST-GUIDE (E)#^sec-3\|3. 🧳 Luggage Storage]]
+- [[신당 안내문/MY-GUEST-GUIDE (E)#^sec-4\|4. 🚪 Entrance & Door Passcode]]
+- [[신당 안내문/MY-GUEST-GUIDE (E)#^sec-5\|5. 🚇 Directions from Incheon Airport]]
+- [[신당 안내문/MY-GUEST-GUIDE (E)#^sec-6\|6. 📶 Wi-Fi]]
+- [[신당 안내문/MY-GUEST-GUIDE (E)#^sec-7\|7. 🏠 House Manual]]
+
+---
+
+## 1. 🔑 Check-in & Check-out
+{ #sec-1}
+
+
+> [!info] **Schedule**
+> - **Check-in**: From 3:00 PM
+> - **Check-out**: By 11:00 AM
+
+---
+
+## 2. 📍 Location & Map
+{ #sec-2}
+
+
+- **Korean Address**: 서울시 중구 청구로16길 9
+- **English Address**: 9 Cheonggu-ro 16-gil, Jung-gu, Seoul, Republic of Korea
+- **Zip Code**: 04613
+
+> [!tip] **Map Links**
+> ⚠️ *If using the Airbnb app, please click "Go to map site" when opening links.*
+> - 📍 [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%8B%9C+%EC%A4%91%EA%B5%AC+%EC%B2%AD%EA%B5%AC%EB%A1%9C16%EA%B8%B8+9)
+> - 📍 [Naver Map](https://naver.me/5GcSyv50)
+
+---
+
+## 3. 🧳 Luggage Storage
+{ #sec-3}
+
+
+You can store your luggage before check-in or after check-out.
+
+- **Storage Location**: **Next to the 2nd-floor entrance (Covered area under roof)**
+- **Features**: Covered from rain and monitored by **24/7 CCTV** for security. You may leave your luggage in any open space.
+- **Early Check-in**: If room cleaning is completed early, we will message you to allow early entry before 3:00 PM.
+
+---
+
+## 4. 🚪 Entrance & Door Passcode
+{ #sec-4}
+
+
+> [!warning] **Main Gate Passcode**
+> The code below is for the **main building entrance gate**. (Individual room passcodes will be provided after cleaning is complete.)
+
+### 🔐 How to Open Main Gate
+1. Slide up the key pad cover.
+2. Touch the lock area lightly with your palm.
+3. Press **`4590*`** and push the door to open.
+
+---
+
+## 5. 🚇 Directions from Incheon Airport
+{ #sec-5}
+
+*(5-minute walk from subway station)*
+
+### 🚌 Option 1: Airport Limousine Bus #6001
+1. Board **Bus #6001** at Incheon Airport platform.
+2. Get off at **Toyoko Inn Hotel (Ibis Budget Hotel)** stop.
+3. Walk about 500–600 meters to the house.
+
+### 🚇 Option 2: Subway Line 6 (via Cheonggu Station)
+1. Take Airport Railroad (AREX) to **Gongdeok Station**.
+2. Transfer to **Line 6** → Get off at **Cheonggu Station (Exit 1)**.
+3. Walk about 100–200 meters to the house.
+
+### 🚇 Option 3: Subway Line 4 (via Dongdaemun History & Culture Park Station)
+1. Take Airport Railroad (AREX) to **Seoul Station**.
+2. Transfer to **Line 4** → Get off at **Dongdaemun History & Culture Park Station (Exit 3)**.
+3. Walk about 500 meters to the house.
+
+---
+
+### 🗺️ Detailed Alley Photo Guide
+
+![길찾는지도.jpg\|673](/img/user/%EA%B8%B8%EC%B0%BE%EB%8A%94%EC%A7%80%EB%8F%84.jpg)
+![대문샷.png\|671](/img/user/%EB%8C%80%EB%AC%B8%EC%83%B7.png)
+
+#### 🔹 [Entering from the Right Alley]
+![collage1.png](/img/user/z.attachmetns/collage1.png)
+![collage2.png](/img/user/z.attachmetns/collage2.png)
+![collage3.png](/img/user/z.attachmetns/collage3.png)
+
+#### 🔹 [Entering from the Left Alley]
+![collage0.png](/img/user/z.attachmetns/collage0.png)
+![collage1 1.png](/img/user/z.attachmetns/collage1%201.png)
+![collage2 1.png](/img/user/z.attachmetns/collage2%201.png)
+
+---
+
+## 6. 📶 Wi-Fi
+{ #sec-6}
+
+
+- **SSID (Name)**: `sin dreams`
+- **Password**: `sindreams123`
+
+---
+
+## 7. 🏠 House Manual
+{ #sec-7}
+
+
+### ♨️ Heating & Hot Water
+
+> [!important] 🚨 **Winter Double-Window Notice**
+> Our home is equipped with **double windows**.  
+> Please **close BOTH inner and outer windows completely** to keep the heat inside!
+
+- **Hot Water**: Available 24 hours.
+- **Heating**: Automatically set to an optimal comfortable temperature.
+  - *If cold*: Extra blankets are located under the bed.
+  - *If warm*: Open windows slightly for fresh air.
+
+---
+
+### 🗑️ Trash & Recycling
+> *No need to worry too much about strict sorting!*
+
+- **General Trash**: Place in transparent plastic bags under the sink.
+- **Recyclables**: Separate plastics, PET bottles, cans, glass, and paper into transparent bags under the sink.
+- **Food Waste**: Put into small transparent bags under the sink and **store in the freezer**.
+- **Disposal**: You may leave bags inside the unit or place them on the 2nd floor.
+
+---
+
+### 🚽 Bathroom Notice
+- Flush **toilet paper ONLY** down the toilet. *(No wet wipes, paper towels, or sanitary items)*
+- If clogged, use the plunger located next to the 2nd-floor recycling area.
+
+---
+
+### 🚫 House Rules & Etiquette
+1. **Quiet Hours**: Please avoid loud conversations at night and early morning inside and outside.
+2. **Strictly Non-Smoking**: No smoking anywhere on the property. (Violation fee applies)
+3. **No Shoes Inside**: Please remove outdoor footwear indoors to protect the Ondol floor.
+
+---
+If you have any questions, feel free to message us on Airbnb anytime!
