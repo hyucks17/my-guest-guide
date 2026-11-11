@@ -3,7 +3,7 @@
 ---
 
 
-# 🏠 Welcome to Cheonggu Welcome Home!
+# 🏠 Welcome to Welcome Home!
 
 > [!tip] 🌐 **Select Language**
 > [[신당 안내문/kr\|KR 한국어]] | [[신당 안내문/en\|US English]] | [[신당 안내문/jp\|JP 日本語]] | [[신당 안내문/ch\|CN 中文]] | [[신당 안내문/ar\|SA العربية]]
@@ -23,11 +23,10 @@ To ensure a smooth check-in, please message us your estimated arrival and depart
 ## 📌 Quick Links
 - [[신당 안내문/en#^sec-1\|1. 🔑 Check-in & Check-out]]
 - [[신당 안내문/en#^sec-2\|2. 📍 Location & Map]]
-- [[신당 안내문/en#^sec-3\|3. 🧳 Luggage Storage]]
-- [[신당 안내문/en#^sec-4\|4. 🚪 Entrance & Door Passcode]]
-- [[신당 안내문/en#^sec-5\|5. 🚇 Directions from Incheon Airport]]
-- [[신당 안내문/en#^sec-6\|6. 📶 Wi-Fi]]
-- [[신당 안내문/en#^sec-7\|7. 🏠 House Manual]]
+- [[신당 안내문/en#^sec-4\|3. 🚪 Entrance & Door Passcode]]
+- [[신당 안내문/en#^sec-5\|4. 🚇 Directions from Incheon Airport]]
+- [[신당 안내문/en#^sec-6\|5. 📶 Wi-Fi]]
+- [[신당 안내문/en#^sec-7\|6. 🏠 House Manual]]
 
 ---
 
@@ -56,19 +55,7 @@ To ensure a smooth check-in, please message us your estimated arrival and depart
 
 ---
 
-## 3. 🧳 Luggage Storage
-{ #sec-3}
-
-
-You can store your luggage before check-in or after check-out.
-
-- **Storage Location**: **Next to the 2nd-floor entrance (Covered area under roof)**
-- **Features**: Covered from rain and monitored by **24/7 CCTV** for security. You may leave your luggage in any open space.
-- **Early Check-in**: If room cleaning is completed early, we will message you to allow early entry before 3:00 PM.
-
----
-
-## 4. 🚪 Entrance & Door Passcode
+## 3. 🚪 Entrance & Door Passcode
 { #sec-4}
 
 
@@ -82,7 +69,7 @@ You can store your luggage before check-in or after check-out.
 
 ---
 
-## 5. 🚇 Directions from Incheon Airport
+## 4. 🚇 Directions from Incheon Airport
 { #sec-5}
 
 *(5-minute walk from subway station)*
@@ -121,7 +108,7 @@ You can store your luggage before check-in or after check-out.
 
 ---
 
-## 6. 📶 Wi-Fi
+## 5. 📶 Wi-Fi
 { #sec-6}
 
 
@@ -130,7 +117,7 @@ You can store your luggage before check-in or after check-out.
 
 ---
 
-## 7. 🏠 House Manual
+## 6. 🏠 House Manual
 { #sec-7}
 
 
