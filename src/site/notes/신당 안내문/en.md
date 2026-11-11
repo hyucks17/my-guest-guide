@@ -14,7 +14,6 @@
 > - 🇨🇳 **中文**: 请使用浏览器自带的翻译功能（**Chrome / Safari“翻译页面”**）。
 > - 🇯🇵 **日本語**: ブラウザ의 自動翻訳機能（**Chrome / Safari「ページを翻訳」**）をご利用ください。
 
-# 🏠 Welcome to Cheonggu Welcome Home!
 
 Hello! Welcome to our self check-in accommodation.  
 To ensure a smooth check-in, please message us your estimated arrival and departure times at least one day before arrival. 😊
